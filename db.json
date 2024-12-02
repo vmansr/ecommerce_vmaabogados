@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Consulta Civil",
+      "jurisdiction": "Civil",
+      "price": 150,
+      "image": "assets/civil.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Litigio Penal",
+      "jurisdiction": "Penal",
+      "price": 300,
+      "image": "assets/penal.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Liquidación Laboral",
+      "jurisdiction": "Laboral",
+      "price": 200,
+      "image": "assets/laboral.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Asesoría Familiar",
+      "jurisdiction": "Familia",
+      "price": 180,
+      "image": "assets/familia.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Consulta Administrativa",
+      "jurisdiction": "Administrativa",
+      "price": 250,
+      "image": "assets/administrativa.jpg"
+    },
+    {
+      "name": "Divorcio",
+      "price": 450,
+      "jurisdiction": "Familia",
+      "image": "assets/familiar.jpg",
+      "id": 6
+    }
+  ]
+}
